@@ -1,0 +1,11 @@
+body {
+    background-color: #ffcd83;
+}
+.card {
+    max-width: 350px;
+    margin: auto;
+}
+button {
+    height: 55px;
+    font-size: 30px;
+}
