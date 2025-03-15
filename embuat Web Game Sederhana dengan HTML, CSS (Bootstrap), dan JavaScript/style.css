@@ -1,0 +1,13 @@
+body {
+    background: url(background-4876988_1280.webp)
+}
+h1 {
+    color: #ffffff;
+}
+p {
+    color: #ffffff;
+}
+#message {
+    font-size: 1.2rem;
+    font-weight: bold;
+}
