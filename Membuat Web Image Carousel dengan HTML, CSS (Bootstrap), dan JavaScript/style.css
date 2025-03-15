@@ -1,0 +1,9 @@
+body {
+    background-color: hsl(202, 86%, 68%);
+}
+.carousel {
+    max-width: 600px;
+    margin: auto;
+    border-radius: 10px;
+    overflow: hidden;
+}
